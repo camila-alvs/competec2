@@ -27,3 +27,14 @@ Material : [Loops](https://docs.google.com/presentation/d/11TXkt-7azUtMdAtYxCeq9
 ## Aula 3
 
 Material : [Arranjos](https://docs.google.com/presentation/d/1j_vF-z8JnSJZdhaI6z8zMlQ20TCQA2gguyivrCNNwIM/edit?usp=sharing)
+
+# 🏆 Campeonatos
+
+## Campeonato 1
+Senha : competec
+
+Salas :
+- [Turma A](https://judge.beecrowd.com/pt/tournaments/rank/8066)
+- [Turma B](https://judge.beecrowd.com/pt/tournaments/rank/8067)
+- [Turma C](https://judge.beecrowd.com/pt/tournaments/rank/8068)
+- [Turma D](https://judge.beecrowd.com/pt/tournaments/rank/8069)
